@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/RomuloHe4rt/introduction_Ecto">
+  <a href="https://github.com/rohlacanna/introduction_Ecto">
     <img src="./assets/ecto.png?version=1.0.0" alt="Logo">
   </a>
 </p>
 
 <h3 align="center">
-  Introdução ao Ecto desenvolvido por <strong>Rômulo He4rt</strong>
+  Introdução ao Ecto desenvolvido por <strong>Rômulo Silva</strong>
   <br />
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -18,9 +18,9 @@
   <a href="#conteúdos"><strong>Explore a documentação »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/RomuloHe4rt/introduction_Ecto">Report Bug</a>
+  <a href="https://github.com/rohlacanna/introduction_Ecto">Report Bug</a>
   <br />
-  <a href="https://github.com/RomuloHe4rt/introduction_Ecto">Request Feature</a>
+  <a href="https://github.com/rohlacanna/introduction_Ecto">Request Feature</a>
 </p>
 
 ## Conteúdos
@@ -51,7 +51,7 @@ E tchadam! Tá pronto o sorvetinho ✨
 
 ## Autores
 
-- **Rômulo da Silva (RômuloHe4rt)** - _Enthusiast & Developer_ [Twitter](https://twitter.com/devroh_)
+- **Rômulo da Silva (rohlacanna)** - _Enthusiast & Developer_ [Twitter](https://twitter.com/devroh_)
 
 <p align="center">
   Made with 💜
